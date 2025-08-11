@@ -35,10 +35,13 @@ To design and simulate a seven-segment display driver using Verilog HDL, and ver
 
 <img width="248" height="310" alt="image" src="https://github.com/user-attachments/assets/9731885c-46bc-4183-843c-f4ea2ac5a229" />
 
+
 <img width="230" height="175" alt="image" src="https://github.com/user-attachments/assets/203c78b8-4b87-4713-9cf5-82314cf72385" />
 
 
+
 <img width="284" height="266" alt="image" src="https://github.com/user-attachments/assets/bcb52839-a8c0-40ab-8e1b-a38c2ffe41a2" />
+
 
 
 ## Verilog Code for Seven-Segment Display  
